@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="user_list">User list</string>
+    <string name="app_info">App info</string>
+    <string name="rentateam_test">Тестовое задание для Rentateam</string>
+    <string name="user_avatar">User avatar</string>
+</resources>
